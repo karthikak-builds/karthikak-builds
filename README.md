@@ -32,5 +32,5 @@ Task management web application built with HTML, CSS, and JavaScript.
 Web development exercises using JavaScript, Node.js, Express.js, and MongoDB.
 
 📫 Connect with Me
-- LinkedIn: Your LinkedIn URL
+- LinkedIn: [karthika-builds](https://www.linkedin.com/in/karthika-builds/)
 - GitHub: github.com/karthikak-builds
