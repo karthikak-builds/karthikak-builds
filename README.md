@@ -10,27 +10,23 @@
 - SQL
 - REST APIs
 
-🛠 Tech Stack
-- Java
-- Spring Boot
-- SQL
-- HTML
-- CSS
-- JavaScript
-- Python
-- MongoDB
+## 📈 Problem Solving
 
-🚀 Featured Projects
+- LeetCode: https://leetcode.com/u/Karthika_21/
+- Solved 59+ Problems
 
-### Sudoku Solver API
-Spring Boot REST API that solves Sudoku puzzles using a Backtracking Algorithm.
+## 🛠 Tech Stack
 
-### TaskFlow
-Task management web application built with HTML, CSS, and JavaScript.
+Java • Spring Boot • SQL • HTML • CSS • JavaScript • Python • MongoDB
 
-### Full Stack Lab
-Web development exercises using JavaScript, Node.js, Express.js, and MongoDB.
+## 🚀 Featured Projects
 
-📫 Connect with Me
-- LinkedIn: [karthika-builds](https://www.linkedin.com/in/karthika-builds/)
+- Sudoku Solver REST API
+- TaskFlow
+- Full Stack Web Development Lab
+- Mobile Application Development Lab
+
+## 📫 Connect With Me
+
 - GitHub: github.com/karthikak-builds
+- LinkedIn: (your LinkedIn URL)
