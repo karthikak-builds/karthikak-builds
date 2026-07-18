@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Karthika 👋
 
-<!--
-**karthikak-builds/karthikak-builds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student
 
-Here are some ideas to get you started:
+💻 Aspiring Java Backend Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+- Data Structures & Algorithms
+- Spring Boot
+- SQL
+- REST APIs
+
+🛠 Tech Stack
+- Java
+- Spring Boot
+- SQL
+- HTML
+- CSS
+- JavaScript
+- Python
+- MongoDB
+
+🚀 Featured Projects
+
+### Sudoku Solver API
+Spring Boot REST API that solves Sudoku puzzles using a Backtracking Algorithm.
+
+### TaskFlow
+Task management web application built with HTML, CSS, and JavaScript.
+
+### Full Stack Lab
+Web development exercises using JavaScript, Node.js, Express.js, and MongoDB.
+
+📫 Connect with Me
+- LinkedIn: Your LinkedIn URL
+- GitHub: github.com/karthikak-builds
