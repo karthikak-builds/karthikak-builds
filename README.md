@@ -13,7 +13,7 @@
 ## 📈 Problem Solving
 
 - LeetCode: https://leetcode.com/u/Karthika_21/
-- Solved 59+ Problems
+- Solved 70+ Problems
 
 ## 🛠 Tech Stack
 
