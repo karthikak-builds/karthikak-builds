@@ -29,4 +29,4 @@ Java • Spring Boot • SQL • HTML • CSS • JavaScript • Python • Mong
 ## 📫 Connect With Me
 
 - GitHub: github.com/karthikak-builds
-- LinkedIn: (your LinkedIn URL)
+- LinkedIn: www.linkedin.com/in/karthika-builds
